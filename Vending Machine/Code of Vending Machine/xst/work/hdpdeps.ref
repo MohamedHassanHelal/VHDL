@@ -1,0 +1,6 @@
+V3 3
+FL C:/.Xilinx/VendingMachine/VendingMachine.vhd 2014/12/28.15:56:31 P.15xf
+EN work/VendingMachine 1419810994 FL C:/.Xilinx/VendingMachine/VendingMachine.vhd \
+      PB ieee/std_logic_1164 1335251622
+AR work/VendingMachine/Behavioral 1419810995 \
+      FL C:/.Xilinx/VendingMachine/VendingMachine.vhd EN work/VendingMachine 1419810994

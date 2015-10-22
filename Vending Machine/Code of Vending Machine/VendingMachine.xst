@@ -1,0 +1,5 @@
+set -tmpdir "C:/.Xilinx/VendingMachine/xst/projnav.tmp"
+set -xsthdpdir "C:/.Xilinx/VendingMachine/xst"
+elaborate
+-ifn VendingMachine.prj
+-ifmt mixed

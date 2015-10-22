@@ -1,0 +1,6 @@
+V3 3
+FL C:/.Xilinx/WashingMachine/WashingMachine.vhd 2014/11/23.22:45:51 P.15xf
+EN work/WashingMachine 1419367743 FL C:/.Xilinx/WashingMachine/WashingMachine.vhd \
+      PB ieee/std_logic_1164 1335251622
+AR work/WashingMachine/Behavioral 1419367744 \
+      FL C:/.Xilinx/WashingMachine/WashingMachine.vhd EN work/WashingMachine 1419367743

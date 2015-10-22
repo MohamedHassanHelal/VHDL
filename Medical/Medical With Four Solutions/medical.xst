@@ -1,0 +1,5 @@
+set -tmpdir "C:/.Xilinx/medical1/xst/projnav.tmp"
+set -xsthdpdir "C:/.Xilinx/medical1/xst"
+elaborate
+-ifn medical.prj
+-ifmt mixed

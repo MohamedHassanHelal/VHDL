@@ -1,0 +1,5 @@
+set -tmpdir "C:/.Xilinx/WashingMachine/xst/projnav.tmp"
+set -xsthdpdir "C:/.Xilinx/WashingMachine/xst"
+elaborate
+-ifn WashingMachine.prj
+-ifmt mixed

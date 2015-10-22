@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/.Xilinx/medical1/medical.xst" -ofn "C:/.Xilinx/medical1/medical.syr" 
+xst -intstyle ise -ifn "C:/.Xilinx/medical1/medical.xst" -ofn "C:/.Xilinx/medical1/medical.syr" 

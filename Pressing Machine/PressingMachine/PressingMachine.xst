@@ -1,0 +1,5 @@
+set -tmpdir "C:/.Xilinx/Medical/PressingMachine/xst/projnav.tmp"
+set -xsthdpdir "C:/.Xilinx/Medical/PressingMachine/xst"
+elaborate
+-ifn PressingMachine.prj
+-ifmt mixed

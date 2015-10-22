@@ -1,0 +1,5 @@
+set -tmpdir "C:/.Xilinx/Garage/xst/projnav.tmp"
+set -xsthdpdir "C:/.Xilinx/Garage/xst"
+elaborate
+-ifn Garage.prj
+-ifmt mixed
